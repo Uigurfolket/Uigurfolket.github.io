@@ -1,0 +1,65 @@
+body{
+  background-color: #bb923a;
+  overflow-x: hidden;
+
+}
+img{
+  border-radius: 10% ;
+}
+div{
+
+
+}
+
+.yellow{
+  background-color: #ece4c6;
+  padding:0.01em 16px;
+  margin-left:-14px;
+  margin-right:-14px;
+}
+
+.fill{
+  height: 98vh;
+}
+
+.flex{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.flex1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.scrollmenu {
+
+  overflow: auto;
+  white-space: nowrap;
+  height: 100%;
+  padding:0.01em 16px;
+  margin-left:-14px;
+  margin-right:-14px;  
+}
+
+.scrollmenu > div {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+.scrollmenu > div > a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+.scrollmenu > div > a:hover {
+  background-color: #777;
+}
