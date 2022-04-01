@@ -25,6 +25,10 @@ div{
   text-align: center;
 }
 
+.fill > h1 {
+  font-size: 50%;
+}
+
 .flex{
   display: flex;
   justify-content: space-evenly;
