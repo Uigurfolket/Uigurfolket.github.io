@@ -21,6 +21,8 @@ div{
   height: 98vh;
   background-image: url("https://media.snl.no/media/136049/standard_msWvwrO89jc.jpg"); 
   opacity: 0.5;
+  padding: 50px 0;
+  text-align: center;
 }
 
 .flex{
