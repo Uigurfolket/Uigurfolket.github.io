@@ -27,6 +27,7 @@ div{
 
 .fill > h1 {
   font-size: 50%;
+  opacity: 0;
 }
 
 .flex{
