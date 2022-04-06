@@ -24,10 +24,6 @@ div{
   text-align: center;
 }
 
-.fill > h1 {
-  font-size: 1000%;
-  opacity: 0.;
-}
 
 .flex{
   display: flex;
