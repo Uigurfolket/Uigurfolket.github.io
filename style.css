@@ -19,8 +19,7 @@ div{
 
 .fill{
   height: 98vh;
-  background-image: url("https://media.snl.no/media/136049/standard_msWvwrO89jc.jpg"); 
-  opacity: 0.5;
+  background-image: linear-gradient(rgba(187,146,58,0.5), rgba(187,146,58,0.5)), url("https://media.snl.no/media/136049/standard_msWvwrO89jc.jpg");
   padding: 50px 0;
   text-align: center;
 }
